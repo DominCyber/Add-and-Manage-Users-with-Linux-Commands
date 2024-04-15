@@ -20,7 +20,9 @@ Coursera Google Cybersecurity Professional Certificate Course work intend to imp
 
 ### Steps
 <img src="https://i.imgur.com/h5wrvUi.png" style="width: 45%;" alt="1">
-<p><i>Ref 1: </i></p>
-<img src="https://i.imgur.com/8Fkdg7y.png" style="width: 65%;" alt="1">
-<p><i>Ref 2:</i></p>
+<p><i>Ref 1: Example of CLI commands ls -la and various chmod examples</i</p>
+Chmod commands are formatted as such where the the entities are represented by "u, g, or o" (user, group, other), seperated by a comma, and accompanied by a letter argument representing either a read, write, or execute ("r, w, x") function to modify an entities' permissions to gain access to files or directories, denoted by either "+" (add) or "-" (remove) to that permission.
 
+<img src="https://i.imgur.com/8Fkdg7y.png" style="width: 65%;" alt="1">
+<p><i>Ref 2: Various add, remove, and assignment CLI commands</i></p>
+User adminstration commands are prefaced with "sudo" to grant temporary root access abilities to prevent unnecessary privilege escalations. "-g" and "-G" arguments denote group assignment, accompanied by group and username. "-a" arguments prefixes "-G" to assign a username to a second group.
