@@ -20,7 +20,7 @@ Coursera Google Cybersecurity Professional Certificate Course work intend to imp
 
 ### Steps
 <img src="https://i.imgur.com/h5wrvUi.png" style="width: 45%;" alt="1">
-<p><i>Ref 1: Example of CLI commands ls -la and various chmod examples</i</p>
+<p><i>Ref 1: Example of CLI commands ls -la and various chmod examples</i></p>
 
 Chmod commands are formatted as such where the the entities are represented by "u, g, or o" (user, group, other), seperated by a comma, and accompanied by a letter argument representing either a read, write, or execute ("r, w, x") function to modify an entities' permissions to gain access to files or directories, denoted by either "+" (add) or "-" (remove) to that permission.
 
