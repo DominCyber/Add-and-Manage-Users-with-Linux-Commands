@@ -3,6 +3,7 @@
 Coursera Google Cybersecurity Professional Certificate Course work intend to impart practical cybersecurity skills. This guided project utilizes a virtual environment to  rapidly familiarize users with access control administrative duties using CLI commands. Specifically, this project lets users demonstrate CLI commands such as user-group-other read-write-execute permissions for files and directories; display hidden files; add, remove, and assign users to groups; change ownership of files; and removing groups.
 
 ### Skills Learned
+-Understand access control administration within a Linux file system, utilizing CLI commands
 -CLI commands:
 <p>--display all files (-l), including hidden file (-a) (ls -la)</p>
 <p>--user-group-other read-write-execute permissions for files (chmod u-/+ rwx,g-/+ rwx,o-/+rwx file)</p>
