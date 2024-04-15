@@ -5,14 +5,14 @@ Coursera Google Cybersecurity Professional Certificate Course work intend to imp
 ### Skills Learned
 -CLI commands:
 <p>--display all files (-l), including hidden file (-a) (ls -la)</p>
-<p>--user-group-other read-write-execute permissions for files (chmod u<-/+ rwx>,g<-/+ rwx>,o<-/+ rwx> <file.txt>)</p>
-<p>--user-group-other read-write-execute permissions for files (chmod u<-/+ rwx>,g<-/+ rwx>,o<-/+ rwx> <directory>)</p>
-<p>--add user (sudo useradd <username>)</p>
-<p>--remove user (sudo userdel <username>)</p>
-<p>--assign users to groups (sudo usermod -g <group>)</p>
-<p>--assign users to secondary groups (sudo usermod -a -G <second group> <username>)</p>
-<p>--change ownership of files (sudo chown <username> <filepath>)</p>
-<p>--remove groups (sudo groupdel <username>) <i>*a default group is assigned to new usernames added to a linux file system</i></p>
+<p>--user-group-other read-write-execute permissions for files (chmod u-/+ rwx,g-/+ rwx,o-/+rwx file)</p>
+<p>--user-group-other read-write-execute permissions for files (chmod u-/+ rwx,g-/+ rwx,o-/+ rwx directory)</p>
+<p>--add user (sudo useradd username)</p>
+<p>--remove user (sudo userdel username)</p>
+<p>--assign users to groups (sudo usermod -g group)</p>
+<p>--assign users to secondary groups (sudo usermod -a -G second group username)</p>
+<p>--change ownership of files (sudo chown username filepath)</p>
+<p>--remove groups (sudo groupdel username) <i>*a default group is assigned to new usernames added to a linux file system</i></p>
 
 ### Tools Used
 -Laptop
