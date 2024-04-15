@@ -5,7 +5,7 @@ Coursera Google Cybersecurity Professional Certificate Course work intend to imp
 ### Skills Learned
 -CLI commands:
 <p>--display all files (-l), including hidden file (-a) (ls -la)</p>
-<p>-user-group-other read-write-execute permissions for files (chmod u,g,o ".txt>")-</p>
+<p>--user-group-other read-write-execute permissions for files (chmod u<-/+ rwx>,g<-/+ rwx>,o<-/+ rwx> <.txt>)</p>
 <p>-</p>
 <p>-</p>
 <p>-</p>
