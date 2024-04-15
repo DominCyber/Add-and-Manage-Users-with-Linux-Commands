@@ -1,10 +1,10 @@
 # Add and Manage Users with Linux Commands
 ## Objective
-Coursera Google Cybersecurity Professional Certificate Course work intend to impart practical cybersecurity skills. This guided project utilizes a virtual environment to  rapidly familiarize users with <>. Specifically, this project lets users demonstrate <>.
+Coursera Google Cybersecurity Professional Certificate Course work intend to impart practical cybersecurity skills. This guided project utilizes a virtual environment to  rapidly familiarize users with access control administrative duties using CLI commands. Specifically, this project lets users demonstrate CLI commands such as user-group-other read-write-execute permissions for files and directories; display hidden files; add, remove, and assign users to groups; and removing groups.
 
 ### Skills Learned
--
-<p>-</p>
+-CLI commands:
+<p>--</p>
 <p>-</p>
 <p>-</p>
 <p>-</p>
