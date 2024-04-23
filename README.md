@@ -1,6 +1,6 @@
 # Add and Manage Users with Linux Commands
 ## Objective
-The Coursera Google Cybersecurity Professional Certificate Course work provides practical cybersecurity skills. This guided project utilizes a virtual environment to familiarize users with access control administrative duties using CLI commands. Specifically, this project allows users to demonstrate CLI commands such as user-group-other read-write-execute permissions for files and directories; display hidden files; add, remove, and assign users to groups; change ownership of files; and removing groups.
+The Coursera Google Cybersecurity Professional Certificate Course work provides practical cybersecurity skills. This guided project utilizes a virtual machine environment to familiarize cybersecurity professionals with access control administrative duties using CLI commands. Specifically, this project explores CLI commands such as user-group-other read-write-execute permissions for files and directories; display hidden files; add, remove, and assign users to groups; change ownership of files; and removing groups.
 
 ### Skills Learned
 -Understand access control administration within a Linux file system, utilizing CLI commands
